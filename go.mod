@@ -5,7 +5,7 @@ go 1.25.0
 require (
 	github.com/gookit/color v1.5.1
 	github.com/mattn/go-isatty v0.0.14
-	go.elara.ws/logger v0.0.0-20240720233222-35a314443645
+	github.com/lure365/logger v0.0.0-20240720233222-35a314443645
 )
 
 require (
