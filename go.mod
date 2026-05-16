@@ -1,6 +1,6 @@
-module go.elara.ws/logger
+module github.com/lure365/logger
 
-go 1.18
+go 1.25.0
 
 require (
 	github.com/gookit/color v1.5.1
